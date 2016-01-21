@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\Xu Han (Jack)\Bounce\Bounce\bin\Debug\Bounce.exe
+C:\Users\Student\Documents\Xu Han (Jack)\Bounce\Bounce\bin\Debug\Bounce.pdb
+C:\Users\Student\Documents\Xu Han (Jack)\Bounce\Bounce\obj\x86\Debug\Bounce.Form1.resources
+C:\Users\Student\Documents\Xu Han (Jack)\Bounce\Bounce\obj\x86\Debug\Bounce.Properties.Resources.resources
+C:\Users\Student\Documents\Xu Han (Jack)\Bounce\Bounce\obj\x86\Debug\Bounce.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Xu Han (Jack)\Bounce\Bounce\obj\x86\Debug\Bounce.exe
+C:\Users\Student\Documents\Xu Han (Jack)\Bounce\Bounce\obj\x86\Debug\Bounce.pdb
+C:\Users\Student\Documents\Xu Han (Jack)\Bounce\Bounce\obj\x86\Debug\Bounce.csprojResolveAssemblyReference.cache
